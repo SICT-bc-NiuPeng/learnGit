@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 I love china
 Creating a new branch is quick
+welcome to china
