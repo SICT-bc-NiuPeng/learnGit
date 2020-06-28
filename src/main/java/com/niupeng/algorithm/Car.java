@@ -1,4 +1,4 @@
-package com.mashibing.spring;
+package com.niupeng.algorithm;
 
 public interface Car {
 
